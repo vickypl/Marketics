@@ -1,9 +1,9 @@
 <?php
 	// Account details
-	$apiKey = urlencode('bhRTzu4sGe4-Ythi6apk1sxpYIh9jnPdbCCemzijwd');
+	$apiKey = urlencode('your api key');
 	
 	// Message details
-	$numbers = array(917828789845);
+	$numbers = array(mobile number);
 	//$message = rawurlencode('Data saved. ref_num:'$_POST["rnum"]', Name:'$_POST["cnum"]'');
  	$message = rawurlencode('Yo yo the massage sending is successfull....54');
 	$numbers = implode(',', $numbers);
