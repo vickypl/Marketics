@@ -23,13 +23,13 @@ This is an user management web based application.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/vickypl/Marketics.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Marketics
 ```
 
 Install dependencies
